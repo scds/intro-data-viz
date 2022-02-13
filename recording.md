@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Getting Started
-nav_order: 3
+title: Workshop Recording
+nav_order: 2
 ---
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
@@ -24,9 +24,6 @@ View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076
 </div>
 [Download as a PDF](https://github.com/scds/intro-tableau/raw/main/assets/docs/tableau_20201118.pdf)
 <br>
-
-## Worksheets
-**Coming soon!**
 
 
 -->
