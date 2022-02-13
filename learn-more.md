@@ -4,9 +4,9 @@ title: Learn More
 nav_order: 3
 ---
 
-## More info and other tools
+## Learn More
 
-To learn more about Data Visualization, consult these McMaster sour
+To learn more about Data Visualization, consult these sources:
 
 - [Data Visualization Guide](https://libguides.mcmaster.ca/dataviz) by Subhanya Sivajothy 
 - [Data Visualization with Tableau](https://scds.github.io/intro-tableau/) Online Module by Devon Mordell
