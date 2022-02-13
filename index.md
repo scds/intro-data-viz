@@ -1,18 +1,15 @@
 ---
 layout: home
 title: Home
-description: SCDS Do More with Digital Scholarship workshop series
+description: DASH Workshop Series
 nav_order: 1
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+<img src="assets/img/TWITTER-Intro to designing Feb 10.png" alt="Workshop Title Slide. Reads Intro to Designing Effective Data Visualizations. Includes image of student working at computer." width="720">
 
-<!--
-<img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
+# Welcome to Intro to Designing Effective Data Visualizations
 
-# Welcome to Data Visualization with Tableau. 
-
-You might not think of numbers and locations as Humanities data, but it all depends on how you use them! Working with numeric and spatial data, you will learn how to create visualizations in [Tableau](https://www.tableau.com/).
+An effective data visualization makes all the difference. Learn to present your research in its best light at this beginner-friendly workshop on the basic design principles and best practices that can be applied across different data visualization software and tools. Subhanya Sivajothy (Data Analysis and Visualization Librarian) will teach participants how to plan for visualizations from concept to design output, and how to incorporate thinking about dissemination of data as scholars progress in their research. 
 
 Proceed to the [Preparation](preparation) page to get started.
 -->
