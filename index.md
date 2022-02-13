@@ -11,6 +11,6 @@ nav_order: 1
 
 An effective data visualization makes all the difference. Learn to present your research in its best light at this beginner-friendly workshop on the basic design principles and best practices that can be applied across different data visualization software and tools. Subhanya Sivajothy (Data Analysis and Visualization Librarian) will teach participants how to plan for visualizations from concept to design output, and how to incorporate thinking about dissemination of data as scholars progress in their research. 
 
-Proceed to the [Preparation](preparation) page to get started.
+Proceed to the [Workshop Recording](recording) page to view the module. 
 -->
 
