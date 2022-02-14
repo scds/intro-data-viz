@@ -14,6 +14,8 @@ To learn more about Data Visualization, consult these sources:
 - Selected articles on data visualization by [Lisa Muth](https://lisacharlottemuth.com/) 
 - [Visual Insights: A Practical Guide to Making Sense of Data](https://www.penguinrandomhouse.com/books/656862/visual-insights-by-katy-borner-and-david-e-polley/) by Katy Borner and David E. Polley
 - [Data Visualization Catalogue](https://datavizcatalogue.com/) by Severino Ribecca (an online library of different data visualization types)
+- [Colour Contrast Checker](https://colourcontrast.cc/)
+- [Chart Chooser Tool for Microsoft Excel](https://www.juiceanalytics.com/chartchooser)
 
 Are you working on a data visualization and looking to consult with an expert? 
 - [Book an appointment](https://libcal.mcmaster.ca/appointments/dataviz) to discuss your work with Subhanya.
