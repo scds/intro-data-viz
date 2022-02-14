@@ -1,5 +1,4 @@
-# Intro to Data Visualizations
-Materials for the DASH workshop: Intro to Data Visualizations 
+Materials for the DASH workshop: Intro to Designing Effective Data Visualizations 
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/intro-data-viz) with GitHub Pages. 
 
