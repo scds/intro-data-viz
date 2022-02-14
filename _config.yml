@@ -41,5 +41,5 @@ plugins:
 ga_tracking: # G-F8RTH48YGK
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 license_url: "http://creativecommons.org/licenses/by/4.0/"
-license_name: "Creative Commons Attribution 4.0 International License"
-license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
+license_name: "Creative Commons Attribution 4.0 International License" 
+license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png" 
